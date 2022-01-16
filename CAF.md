@@ -3,7 +3,7 @@
 ## Contents
 * [Wat is Microsoft CAF?](#microsoftcaf)
 * [Voor- en nadelen Microsoft CAF](#voornadelen)
-* CAF | Public Cloud Providers
+  * CAF | Public Cloud Providers
 </br>
 
 ## <a id="microsoftcaf"></a>Wat is Microsoft CAF?
@@ -32,3 +32,15 @@ Microsoft CAF focust zich meer op de methodologie om IT oplossingen te migreren 
 Referentie: https://docs.microsoft.com/nl-nl/azure/cloud-adoption-framework/
 
 ## <a id="voornadelen"></a>Voor- en nadelen Microsoft CAF
+
+Een paar **sterke** punten van Microsoft CAF is het volgende:
+* Governance: controle over het budget en toegangsrechten
+* CAF zorgt voor beveiliging en compliance
+* Toepasbaar voor grote en kleine bedrijven
+* Snelle resultaten behalen
+
+Een van de **minder sterke** punt is dat men gelijk denkt dat dit een vendor lock-in probleem zou veroorzaken, maar dit is niet het geval. Zo heeft de andere grote public providers ook haar eigen CAF.
+
+**Amazon** heeft haar eigen standaard Framework die heet AWS Cloud Adoption Framework. In tegenstelling tot Microsoft CAF houdt AWS CAF rekening mee met zes verschillende factoren, namelijk: business, people, governance, platform, security en operations. Meer hierover: https://aws.amazon.com/professional-services/CAF/
+
+Uiteraard heeft Google ook zijn eigen standaard/Framework. Meer hierover: https://cloud.google.com/adoption-framework
