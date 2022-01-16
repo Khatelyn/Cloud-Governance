@@ -12,7 +12,7 @@ Microsoft Cloud Adoption Framework (CAF) is een leidraad die ontworpen is om org
 
 > De Cloud Adoption Framework brengt best practices voor cloud adoption samen van Microsoft-werknemers, -partners en -klanten. Het biedt een set hulpprogramma's, richtlijnen en verhalen. Deze hulpprogramma's helpen uw strategieën voor technologie, bedrijf en personen vorm te geven om de beste bedrijfsresultaten te krijgen tijdens de cloudingebruikname. Bekijk de richtlijnen voor elke methodologie hieronder, zodat u op het juiste moment eenvoudig toegang hebt tot de juiste richtlijnen.
 
-![Strategie](.//pix/strategie.png)
+![Strategie](.//pix/strategie.png)  | <a id="https://docs.microsoft.com/nl-nl/azure/cloud-adoption-framework/strategy/">Strategie: </a> De zakelijke reden en verwachte resultaten van de acceptatie definiëren.
 
 Referentie: https://docs.microsoft.com/nl-nl/azure/cloud-adoption-framework/
 
