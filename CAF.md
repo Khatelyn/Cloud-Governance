@@ -2,8 +2,7 @@
 
 ## Contents
 * [Wat is Microsoft CAF?](#microsoftcaf)
-* [Microsoft CAF bijdrage aan Governance](#bijdrage)
-* Voor- en nadelen Microsoft CAF
+* [Voor- en nadelen Microsoft CAF](#voornadelen)
 * CAF | Public Cloud Providers
 </br>
 
@@ -28,6 +27,8 @@ Microsoft Cloud Adoption Framework (CAF) is een leidraad die ontworpen is om org
 
 ![Organiseren](.//pix/bepalen.png) | [Organiseren: ](https://docs.microsoft.com/nl-nl/azure/cloud-adoption-framework/organize/)Stem de teams en rollen af die de cloud-acceptatie-inspanningen van uw organisatie ondersteunen.
 
+Microsoft CAF focust zich meer op de methodologie om IT oplossingen te migreren en om de transitie naar de Cloud aan te pakken in verschillende methoden. Daarvoor houdt Microsoft rekening mee met drie factoren: bedrijfsstrategie, technologiestrategie en mensenstrategie.
+
 Referentie: https://docs.microsoft.com/nl-nl/azure/cloud-adoption-framework/
 
-## <a id="bijdrage"></a>Microsoft CAF bijdrage aan Goverance
+## <a id="voornadelen"></a>Voor- en nadelen Microsoft CAF
