@@ -30,7 +30,7 @@ Microsoft Cloud Adoption Framework (CAF) is een leidraad die ontworpen is om org
 Microsoft CAF focust zich meer op de methodologie om IT oplossingen te migreren en om de transitie naar de Cloud aan te pakken in verschillende methoden. Daarvoor houdt Microsoft rekening mee met drie factoren: bedrijfsstrategie, technologiestrategie en mensenstrategie.
 
 <div align="center">
-  <a href="https://www.microsoft.com/en-us/videoplayer/embed/RE4tyzr"><img src="https://www.microsoft.com/en-us/videoplayer/embed/RE4tyzr/0.jpg" alt="Microsoft CAF"></a>
+  <a href="https://www.microsoft.com/en-us/videoplayer/embed/RE4tyzr"><img src=".//pix/caf.JPG" alt="Microsoft CAF"></a>
 </div>
 
 
