@@ -12,7 +12,21 @@ Microsoft Cloud Adoption Framework (CAF) is een leidraad die ontworpen is om org
 
 > De Cloud Adoption Framework brengt best practices voor cloud adoption samen van Microsoft-werknemers, -partners en -klanten. Het biedt een set hulpprogramma's, richtlijnen en verhalen. Deze hulpprogramma's helpen uw strategieën voor technologie, bedrijf en personen vorm te geven om de beste bedrijfsresultaten te krijgen tijdens de cloudingebruikname. Bekijk de richtlijnen voor elke methodologie hieronder, zodat u op het juiste moment eenvoudig toegang hebt tot de juiste richtlijnen.
 
-![Strategie](.//pix/strategie.png)  | [Strategie: ](https://docs.microsoft.com/nl-nl/azure/cloud-adoption-framework/strategy/)De zakelijke reden en verwachte resultaten van de acceptatie definiëren.
+![Strategie](.//pix/strategie.png) | [Strategie: ](https://docs.microsoft.com/nl-nl/azure/cloud-adoption-framework/strategy/)De zakelijke reden en verwachte resultaten van de acceptatie definiëren.
+
+![Gereed](.//pix/gereed.png) | [Gereed: ](https://docs.microsoft.com/nl-nl/azure/cloud-adoption-framework/ready/)Bereid de cloudomgeving voor op de geplande wijzigingen.
+
+![Innoveren](.//pix/innoveren.png) | [Innoveren: ](https://docs.microsoft.com/nl-nl/azure/cloud-adoption-framework/innovate/)Ontwikkel nieuwe cloudeigen of hybride oplossingen.
+
+![Beheren](.//pix/beheren.png) | [Beheren: ](https://docs.microsoft.com/nl-nl/azure/cloud-adoption-framework/manage/)Operationeel beheer voor cloud- en hybride oplossingen.
+
+![Plannen](.//pix/plannen.png) | [Plannen: ](https://docs.microsoft.com/nl-nl/azure/cloud-adoption-framework/plan/)Stem toe te passen acceptatieplannen af op bedrijfsresultaten.
+
+![Migreren](.//pix/migreren.png) | [Migreren: ](https://docs.microsoft.com/nl-nl/azure/cloud-adoption-framework/migrate/)Bestaande workloads migreren en moderniseren.
+
+![Bepalen](.//pix/bepalen.png) | [Bepalen: ](https://docs.microsoft.com/nl-nl/azure/cloud-adoption-framework/govern/)De omgeving en workloads regelen.
+
+![Organiseren](.//pix/bepalen.png) | [Organiseren: ](https://docs.microsoft.com/nl-nl/azure/cloud-adoption-framework/organize/)Stem de teams en rollen af die de cloud-acceptatie-inspanningen van uw organisatie ondersteunen.
 
 Referentie: https://docs.microsoft.com/nl-nl/azure/cloud-adoption-framework/
 
